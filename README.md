@@ -1,3 +1,4 @@
+![cov](https://user-images.githubusercontent.com/92803911/221797625-14973ca2-91a9-4384-98b0-61729ab3e601.jpg)
 <h1 align="center">Hi 👋, I'm Zakia Aktar</h1>
 <h3 align="center">Frontend Developer | Web Developer | React Developer | Full Stack Developer - MERN</h3>
 
