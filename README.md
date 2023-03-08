@@ -1,9 +1,19 @@
 ![cov](https://user-images.githubusercontent.com/92803911/221797625-14973ca2-91a9-4384-98b0-61729ab3e601.jpg)
 <h1 align="center">Hi 👋, I'm Zakia Aktar</h1>
-<h3 align="center">Frontend Developer | Web Developer | React Developer | Full Stack Developer - MERN</h3>
+<h3 align="center">Frontend Developer || Web Developer || React Developer || MERN Stack Developer</h3>
+
+- 🌱 I’m currently learning **Redux, Node-Mongo**
+
+- 👨‍💻 All of my projects are available at [https://zakia-aktar-portfolio.netlify.app/](https://zakia-aktar-portfolio.netlify.app/)
+
+- 📫 How to reach me **zakiaaktar.nila@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AIGeq-Hm4Blp3Z31L83kLxX5xrpmkc6Y/view](https://drive.google.com/file/d/1AIGeq-Hm4Blp3Z31L83kLxX5xrpmkc6Y/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zakia-aktar-frontend-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zakia-aktar-frontend-developer/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100089054342617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100089054342617" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
