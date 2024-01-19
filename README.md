@@ -1,20 +1,40 @@
-![zakia (3)](https://user-images.githubusercontent.com/92803911/223849490-3c850c34-5add-489c-8ab0-07f336d6cb3d.jpg)
-<h1 align="center">Hi 👋, I'm Zakia Aktar</h1>
-<h3 align="center">Frontend Developer || Web Developer || React Developer || MERN Stack Developer</h3>
+<a href="https://www.facebook.com/profile.php?id=61550744745224"><img  src="https://raw.githubusercontent.com/zakiaaktar/zakiaaktar/main/assets/zakiaGithubBanner2.gif"></a></p>
 
-- 🌱 I’m currently learning **Redux, Node-Mongo**
+<br />
+<h1 align="center">Hi 👋, I'm ZAKIA AKTAR</h1>
+<h3 align="center">Frontend Developer | Web Developer | React Developer | Full Stack Developer (MERN)</h3>
+<br />
 
-- 👨‍💻 All of my projects are available at [https://zakia-aktar-portfolio.netlify.app/](https://zakia-aktar-portfolio.netlify.app/)
+<!-- ## 📊 Current Status
 
-- 📫 How to reach me **zakiaaktar.nila@gmail.com**
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=zakiaaktar&theme=transparent&hide_border=true&border_radius=0" alt="GitHub Streak" /></a></a></p> -->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AIGeq-Hm4Blp3Z31L83kLxX5xrpmkc6Y/view](https://drive.google.com/file/d/1AIGeq-Hm4Blp3Z31L83kLxX5xrpmkc6Y/view)
+## 📭 Reach Me Out
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zakia-aktar-frontend-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zakia-aktar-frontend-developer/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100089054342617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100089054342617" height="30" width="40" /></a>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/zakia-aktar-frontend-developer/"><img height="40"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/profile.php?id=61550744745224"><img height="40"  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a></p>
+<br />
+
+## 🌐 Technologies That I Know
+
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongo,firebase,git,figma&perline=6" />
+  </a>
 </p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👀 Overview
+
+#### 👋 Hi, I’m Zakia Aktar
+
+#### 👨‍💻 I’m interested in Web Development
+
+#### 🤵 I like to build dynamic and responsive web applications using React.
+
+#### 🌱 I’m currently learning Next.js
+
+#### 📫 Reach me at : zakiaaktar.nila@gmail.com
